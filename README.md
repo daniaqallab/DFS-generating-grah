@@ -1,6 +1,7 @@
 # LastTime
 
-**TODO: Add description**
+**Elixir program that generates graphs randomly with applying DFS algorthim on the generated graph and using parallel methods **
+
 
 ## Installation
 
