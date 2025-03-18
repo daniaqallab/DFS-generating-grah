@@ -1,0 +1,2 @@
+dot -Tpng graph_directed_weighted.dot -o graph_directed_weighted.png
+dot -Tpng graph_undirected_unweighted.dot -o graph_undirected_unweighted.png
